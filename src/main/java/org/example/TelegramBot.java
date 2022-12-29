@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class TelegramBot extends TelegramLongPollingBot {
 
-    public static final String BOT_TOKEN = "5865785710:AAHMAbSwhIWuO4pooSFR8hVcXj5zQaGRmD8";
+    public static final String BOT_TOKEN = "";
     public static final String BOT_USERNAME = "pictures7_bot";
     public static final String URI = "https://api.nasa.gov/planetary/apod?api_key=AzdkXwVUj2azyVYb7fTEUViwEa5qcGBPaOnpP6do";
     public static long chat_id;
